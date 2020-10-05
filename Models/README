@@ -1,4 +1,5 @@
 모형들 정리 중 
 
 2020.09.18 직접 구현해본 코드 전부 업로드
-2020.10.05 Top-5 accuracy를 같이 보기로 결정 / AdamW 뿐만 아니라 SGDW, ADAMWR 등을 같이 고려 및 
+2020.10.05 Top-5 accuracy를 같이 보기로 결정 / AdamW 뿐만 아니라 SGDW, ADAMWR 등을 같이 고려 및 실험중 
+
