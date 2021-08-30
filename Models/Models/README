@@ -1,11 +1,8 @@
-논문에 사용된 모형코드와, 공부를 위해 직접 구현해본 코드 입니다.
- 
-[1. 논문에서 사용한 모형코드]
-[2. 모형 연습 코드]
+[1. Thesis] : 논문에서 사용된 여러 모형들의 코드들.
+[2. My_models] : 모형들의 공부를 위해 다양한 실험을 시도한 코드들.
 
-두가지 폴더로 구성되어있습니다.
+---------------------------------------------------------------
 
-cf. 
-1. 2020.11.26 완료하였습니다.
-
+[1. Thesis] : Codes of various models used in the thesis.
+[2. My_models] : Codes that tried various experiments to study the models.
 
