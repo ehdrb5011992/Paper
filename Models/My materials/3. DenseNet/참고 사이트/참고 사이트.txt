@@ -1,5 +1,0 @@
-* 1. https://hoya012.github.io/blog/DenseNet-Tutorial-1/
-2. https://datascienceschool.net/view-notebook/4ca30ffdf6c0407ab281284459982a25/
-3. http://openresearch.ai/t/densenet-densely-connected-convolutional-networks/42
-4. https://velog.io/@dyckjs30/DenseNet
-** 5. https://sike6054.github.io/blog/paper/sixth-post/

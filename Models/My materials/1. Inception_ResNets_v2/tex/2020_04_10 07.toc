@@ -1,5 +1,0 @@
-\beamer@sectionintoc {1}{Analysis Goal}{3}{0}{1}
-\beamer@sectionintoc {2}{Inception-v1 Review}{4}{0}{2}
-\beamer@sectionintoc {3}{Inception-v2/v3}{5}{0}{3}
-\beamer@sectionintoc {4}{Inception: -v4 , -ResNet-v1, -ResNet-v2}{14}{0}{4}
-\beamer@sectionintoc {5}{Reference}{32}{0}{5}

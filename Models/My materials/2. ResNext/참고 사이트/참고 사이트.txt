@@ -1,6 +1,0 @@
-1. https://everyday-deeplearning.tistory.com/entry/%EC%B4%88-%EA%B0%84%EB%8B%A8-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0ResNext
-2. https://m.blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221022161142&proxyReferer=https:%2F%2Fwww.google.com%2F
-3. https://takenotesforvision.tistory.com/m/12
-4. https://chacha95.github.io/2019-03-10-Efficeint-DL/
-5. https://masterzone.tistory.com/41
-** 6. https://jjerry-k.github.io/deeplearning/2020/05/08/ResNeXt/

@@ -1,8 +1,0 @@
-\beamer@sectionintoc {1}{Analysis Goal}{3}{0}{1}
-\beamer@sectionintoc {2}{ILSVRC}{4}{0}{2}
-\beamer@sectionintoc {3}{FER2013}{6}{0}{3}
-\beamer@sectionintoc {4}{AlexNet}{7}{0}{4}
-\beamer@sectionintoc {5}{VGG}{9}{0}{5}
-\beamer@sectionintoc {6}{GoogLeNet}{11}{0}{6}
-\beamer@sectionintoc {7}{ResNet}{15}{0}{7}
-\beamer@sectionintoc {8}{Reference}{21}{0}{8}

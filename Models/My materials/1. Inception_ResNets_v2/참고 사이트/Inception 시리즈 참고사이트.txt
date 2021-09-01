@@ -1,4 +1,0 @@
-* 1. https://datascienceschool.net/view-notebook/2537461edbac4ab081b8d7f2acb0d30d/ (모형요약)
-** 2. https://norman3.github.io/papers/docs/google_inception.html
-* 3. https://hoya012.github.io/blog/deeplearning-classification-guidebook-2/
-** 4. https://sike6054.github.io/blog/paper/fourth-post/ (코드)
